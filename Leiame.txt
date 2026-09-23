@@ -2,7 +2,7 @@ Aviso Importante
 Este é um projeto de código aberto e 100% gratuito, desenvolvido para apoiar escolas e congregações. Não é permitida a venda deste software. Se pagaste por este programa, foste enganado.
 
 ⚙️ Estrutura e Utilização
-Requisito Obrigatório: ter o VLC instalado
+Requisito Obrigatório: ter o VLC instalado, a parti da nova verção V6 não precisa mais do VLC
 
 Versão Pronta a Usar (.exe): Ficheiro já compilado para o Windows. Ideal para o utilizador final, bastando clicar e executar para utilizar o programa sem configurações adicionais.
 
