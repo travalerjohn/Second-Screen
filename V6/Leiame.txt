@@ -1,0 +1,2 @@
+Essa versão não precisa do vlc
+executar second_screen_controller.py para iniciar o app
