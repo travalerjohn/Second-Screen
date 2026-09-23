@@ -1,0 +1,9 @@
+Aviso Importante
+Este é um projeto de código aberto e 100% gratuito, desenvolvido para apoiar escolas e congregações. Não é permitida a venda deste software. Se pagaste por este programa, foste enganado.
+
+⚙️ Estrutura e Utilização
+Requisito Obrigatório: ter o VLC instalado
+
+Versão Pronta a Usar (.exe): Ficheiro já compilado para o Windows. Ideal para o utilizador final, bastando clicar e executar para utilizar o programa sem configurações adicionais.
+
+Código-Fonte e Desenvolvimento (V5): Pasta que contém o código aberto do projeto. Inclui um ficheiro executável (.bat) que transfere e instala automaticamente todas as bibliotecas de Python necessárias no Windows.
